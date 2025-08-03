@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: lightgray;  
+}
+
+.navbar {
+  background: blue;
+  padding: 10px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 6px;
+}
+
+.navbar a:hover {
+  background: black;
+}
+
+.search {
+  float: right;
+}
+
+.navbar input {
+  padding: 3px 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
