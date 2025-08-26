@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Care Hospital</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Care Hospital</h1>
+    <p>Your Health, Our Priority</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">About Us</a>
+    <a href="#">Departments</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <div class="container">
+    <div class="card">
+      <h2>About Us</h2>
+      <p>Care Hospital provides world-class healthcare services with modern facilities and expert doctors. We are dedicated to offering the best treatment and patient care.</p>
+      <a href="#" class="btn">Learn More</a>
+    </div>
+
+    <div class="card">
+      <h2>Departments</h2>
+      <ul>
+        <li>Emergency Care</li>
+        <li>Cardiology</li>
+        <li>Neurology</li>
+        <li>Orthopedics</li>
+        <li>Pharmacy</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Contact</h2>
+      <p>Email: info@carehospital.com</p>
+      <p>Phone: <a href="tel:+917000000022">+91 7000000022</a></p>
+      <a href="#" class="btn">Book Appointment</a>
+    </div>
+  </div>
+
+</body>
+</html>
